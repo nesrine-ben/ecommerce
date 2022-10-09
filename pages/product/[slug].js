@@ -62,6 +62,8 @@ const ProductDetails= ({ product, products }) => {
 
       <div>
 
+        
+
       <div className="maylike-products-wrapper">
           <h2>You may also like</h2>
           <div className="marquee">
